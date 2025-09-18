@@ -26,7 +26,7 @@ This project is a **data engineering + BI demo** built to showcase skills in:
 - **Peak consumption:** `3707.4 MWh @ 2025-09-07 13:00:00`  
 - **Est. total cost (7d):** `197,956,062 DKK`
 
-*(replace XXX/YYY/ZZZ with your latest run outputs)*
+*(replace values with your latest run outputs, these values are as of 2025/09/18)*
 
 ---
 
